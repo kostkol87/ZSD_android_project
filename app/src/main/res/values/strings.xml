@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ЗСД</string>
+
+    <string name="dummy_button">взорвать штаты</string>
+    <string name="dummy_content">ЗСД</string>
+</resources>
